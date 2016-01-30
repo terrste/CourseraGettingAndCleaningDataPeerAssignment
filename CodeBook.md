@@ -23,7 +23,7 @@
   * group data by activity and subject
   * summarise applying function mean()
 
-#### The variables of the created dataset are a subset of the original datasets (features.txt), only measurements on the mean and standard deviation 
+The variables of the created dataset are a subset of the original datasets (features.txt), only measurements on the mean and standard deviation 
 
 "subject"                     
 "activityName"                
