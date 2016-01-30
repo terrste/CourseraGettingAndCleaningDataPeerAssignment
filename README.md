@@ -1,9 +1,9 @@
 # Coursera - Getting And Cleaning Data - Peer Assignment
 ##script for peer assignment
 
-The script "run_analysis.R" performs all required steps and creates 2 files: TidyDataset1.txt and TidyDataset2.txt
+The script "run_analysis.R" performs all required steps and creates 2 files: TidyDataset1.txt and TidyDataset2.txt using provided project data (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-Run the script (set the R workspace) to folder where provided project data (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) are estracted (in the workspace must be present the folder "UCI HAR Dataset"). 
+Run the script (set the R workspace) to folder where provided project data are estracted (in the workspace must be present the folder "UCI HAR Dataset"). 
 The dataset files will be created in the workspace directory.
 
 In the script there are these functions: 
